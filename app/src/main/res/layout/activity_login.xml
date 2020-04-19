@@ -33,5 +33,6 @@
         android:layout_height="wrap_content"
         android:text="Login"
         android:layout_marginTop="50dp"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        android:background="@color/colorAccent"/>
 </LinearLayout>
